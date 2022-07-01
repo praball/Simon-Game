@@ -18,7 +18,7 @@ Each level will have different set(s) of button blink, player must follow the or
 ## Links to GitHub Repository (Master Branch)
 
 - GitHub Project Repository: https://github.com/praball/Simon-Game
-- GitHub Pages Demo: 
+- GitHub Pages Demo: https://praball.github.io/Simon-Game/
 
 
 ## Tools / Techniques
