@@ -1,5 +1,8 @@
 # Simon Game
  Challenge your memory skills by playing one of the most popular electronic games of 70s and 80s. How many levels can you pass?
+ 
+ ![image](https://user-images.githubusercontent.com/92200181/176868781-722929c0-a7e7-4ba6-a31d-e9ce6aaa01c9.png)
+
 
 ## Summary
 
